@@ -1,14 +1,12 @@
 ﻿using System;
 
-namespace NotirPula
+namespace NameSpace
 {
-    class OurProgramMagi
+    class OurProgram
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter your username: ");
-            string username = Console.ReadLine();
-            Console.Write("Username is: " + username);
+            
         }
     }
 }
